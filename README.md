@@ -2,6 +2,7 @@
 
 Pесурс: https://partners-my.tools.by
 Логин: fortest
+
 Пароль: fortest
 
 Задание:

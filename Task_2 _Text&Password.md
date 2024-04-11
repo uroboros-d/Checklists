@@ -1,6 +1,6 @@
 ТЕСТОВОЕ ЗАДАНИЕ:
 
-Составить чек-лист проверок для следующих требований:
+Составить __*чек-лист*__ проверок для следующих требований:
 
 Для полей Text:
 
@@ -28,4 +28,4 @@
 
 РЕШЕНИЕ:
 
-ссылка на файл с чек-листом: https://docs.google.com/spreadsheets/d/1Nya3edoTBuhmrBPW2eF4t15-WXvX0zc695xUgztGF0k/edit?usp=drive_link
+ссылка на файл с __*чек-листом*__: https://docs.google.com/spreadsheets/d/1Nya3edoTBuhmrBPW2eF4t15-WXvX0zc695xUgztGF0k/edit?usp=drive_link
